@@ -1,0 +1,48 @@
+*{
+	margin:0;
+	padding:0;
+	
+}
+
+/*div{
+	border:1px solid black;
+}
+*/
+.box{
+	margin:20px 20px 20px 20px;
+	display:inline-block;
+	text-align:center;
+	border-radius:3%;
+}
+.right{
+	text-align: right;
+}
+
+img{
+	width:400px;
+}
+
+.xd{
+	text-align: right;
+}
+
+.text{
+	text-align: center;
+}
+
+#text{
+	font-size:20px;
+}
+
+/*#uno{
+ background-color: rgb(73,144,226)
+}
+#dos{
+ background-color: rgb(189,15,224)
+}
+#tre{
+ background-color: rgb(208,2,66)
+}
+#cuat{
+ background-color: rgb(185,233,135)
+}*/
